@@ -139,7 +139,7 @@ layout: true
 <!-- --- -->
 
 
-## COVID-10 & emotional expressions on Twitter
+## COVID-19 & emotional expressions on Twitter
 
 .pull-left[
 ```{r, echo=FALSE, out.width=700, fig.align='center'}

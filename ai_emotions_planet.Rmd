@@ -48,10 +48,11 @@ background-size: contain
 
 Slides: hannahmetzler.eu/emomis_stockholm
 
+???
 
+<!-- layout: true -->
 <!-- <div class="my-footer"><span> -->
 <!-- <a href="https://doi.org/10.1126/science.aao2998">Lazer et al. (2018). The science of fake news. </a></span></div> -->
-<!-- --- -->
 <!-- # What is misinformation? -->
 <!-- ### False or misleading information -->
 
@@ -63,11 +64,15 @@ Slides: hannahmetzler.eu/emomis_stockholm
 <!-- ] -->
 <!-- .pull-right[ -->
 <!-- * Independent of intent  -->
-<!--     * Intentional: Disinformation <br> -->
-<!-- * Fake News <br> -->
-<!-- * Biased information <br> -->
-<!-- * Conspiracies & myths -->
 
+<!--     * Intentional: Disinformation <br> -->
+
+<!-- * Fake News <br> -->
+
+<!-- * Biased information <br> -->
+
+<!-- * Conspiracies & myths -->
+<!-- ] -->
 
 ---
 layout: true
@@ -142,7 +147,7 @@ knitr::include_graphics("figures/countrymap.svg")
 * 5 weeks after day with >30 cases
 ]
 
---
+
 
 .pull-right[
 ```{r, echo=FALSE, out.width=700, fig.align='center'}

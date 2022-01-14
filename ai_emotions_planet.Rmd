@@ -49,38 +49,25 @@ background-size: contain
 Slides: hannahmetzler.eu/emomis_stockholm
 
 
----
-layout: true
-<div class="my-footer"><span>
-<a href="https://doi.org/10.1126/science.aao2998">Lazer et al. (2018). The science of fake news. </a></span></div>
+<!-- <div class="my-footer"><span> -->
+<!-- <a href="https://doi.org/10.1126/science.aao2998">Lazer et al. (2018). The science of fake news. </a></span></div> -->
+<!-- --- -->
+<!-- # What is misinformation? -->
+<!-- ### False or misleading information -->
 
----
+<!-- .pull-left[ -->
+<!-- <br><br> -->
+<!-- ```{r, echo=FALSE, out.width=500, fig.align='center'} -->
+<!-- knitr::include_graphics("figures/fake-news-3801637.svg") -->
+<!-- ``` -->
+<!-- ] -->
+<!-- .pull-right[ -->
+<!-- * Independent of intent  -->
+<!--     * Intentional: Disinformation <br> -->
+<!-- * Fake News <br> -->
+<!-- * Biased information <br> -->
+<!-- * Conspiracies & myths -->
 
-
-
-# What is misinformation?
-### False or misleading information
-
-.pull-left[
-<br><br>
-```{r, echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("figures/fake-news-3801637.svg")
-```
-]
-.pull-right[
-* Independent of intent 
-    * Intentional: Disinformation <br>
-
-* Fake News <br>
-
-* Biased information <br>
-
-* Conspiracies & myths
-]
-
-
-???
-If time: better picture for fake news - headlines?
 
 ---
 layout: true
@@ -149,9 +136,9 @@ knitr::include_graphics("figures/countrymap.svg")
 ```
 
 * 18 countries - 6 languages
+* 8.3 billion tweets
 * % tweets expressing an emotion
 * Emotion dictionaries
-* 8.3 billion tweets
 * 5 weeks after day with >30 cases
 ]
 
@@ -159,7 +146,7 @@ knitr::include_graphics("figures/countrymap.svg")
 
 .pull-right[
 ```{r, echo=FALSE, out.width=700, fig.align='center'}
-knitr::include_graphics("figures/coefficients_allemotions_5weeks.svg")
+knitr::include_graphics("figures/EmotionTimelines_Italy_with_stringency.svg")
 ```
 ]
 

@@ -44,7 +44,7 @@ background-size: contain
 ### Complexity Science Hub & Medical University of Vienna
 ### Intelligent Machines, Emotions and Our Planet <br> Stockholm - 14.01.2022
 
-Slides: www.hannahmetzler.eu/emomis_stockholm
+Slides: https://hannahmetzler.eu/emomis_stockholm
 
 
 ---
@@ -83,32 +83,36 @@ If time: better picture for fake news - headlines?
 ---
 layout: true
 <div class="my-footer"><span>
+<a href="https://www.nature.com/articles/s41598-020-73510-5#Fig3"> Cinelli et al. (2020);</a> 
+<a href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml">Islam et al. (2020) </a> 
 <a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation">Brennen et al. (2020); </a>
-<a href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml">Islam et al. (2020);
-<a href="http://joyojeet.people.si.umich.edu/an-archive-of-covid-19-related-fake-news-in-india/">Akbar et al. (2020) </a></a>
 </span></div>
 
 ---
 
 ## COVID-19 & misinformation spreading
 
+```{r, echo=FALSE, out.width=950, fig.align='center'}
+knitr::include_graphics("figures/Cinelli2020_infodemic_socialmedia.png")
+```
 .pull-left[.center-left[
 ```{r, echo=FALSE, out.width=700, fig.align='center'}
 knitr::include_graphics("figures/Brennen2020_COVID_factcheck_increase.svg")
-
-knitr::include_graphics("figures/Islam_et_al_2020_infodemic.svg")
-  
 ```
 ]]
 .pull-right[.center-right[
 ```{r, echo=FALSE, out.width=700, fig.align='center'}
-knitr::include_graphics("figures/Akbar_misinfo_india.png")
+knitr::include_graphics("figures/Islam_et_al_2020_infodemic.svg")
 ```
+
+
 ]]
 
 
 ???
 if time: better month labels
+knitr::include_graphics("figures/Akbar_misinfo_india.png")
+<a href="http://joyojeet.people.si.umich.edu/an-archive-of-covid-19-related-fake-news-in-india/">Akbar et al. (2020) </a>
 
 ---
 layout: true
@@ -162,7 +166,7 @@ layout: true
 <div class="my-footer"><span>
 <a href="https://doi.org/10.1177/1750698017701615"> van Prooijen & Douglas (2017); </a> 
 <a href="https://doi.org/10.1177/1948550620934692"> Imhoff & Lamberty (2020); </a> 
-<a href="https://www.nature.com/articles/s41598-020-73510-5#Fig3"> figure by Cinelli et al. (2020)</a> 
+
 </span></div>
 ---
 
@@ -175,8 +179,14 @@ layout: true
     * Sense making to reduce uncertainty
     
 <br>
-```{r, echo=FALSE, out.width=1000, fig.align='center'}
-knitr::include_graphics("figures/Cinelli2020_infodemic_socialmedia.png")
+```{r, echo=FALSE, out.width=300}
+knitr::include_graphics("https://www.statnews.com/wp-content/uploads/2020/03/AP_20081549688183.jpg")
+```
+```{r, echo=FALSE, out.width=355}
+knitr::include_graphics("https://media0.faz.net/ppmedia/aktuell/feuilleton/1083995003/1.7264674/mmobject-still_full/nachdem-eine-krankenschwester.jpg")
+```
+```{r, echo=FALSE, out.width=265}
+knitr::include_graphics("figures/mig-29-1533260_1920.jpg")
 ```
 
 
@@ -331,7 +341,7 @@ knitr::include_graphics("figures/network.jpg")
 Thanks to my collaborators and our funders!
 
 .pull-left[.center-left[
-```{r, echo=FALSE, out.width=400, fig.align='center'}
+```{r, echo=FALSE, out.width=600, fig.align='center'}
 knitr::include_graphics("figures/collaborators.svg")
 ```
 

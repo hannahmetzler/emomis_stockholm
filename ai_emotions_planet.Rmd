@@ -44,7 +44,7 @@ background-size: contain
 ### Complexity Science Hub & Medical University of Vienna
 ### Intelligent Machines, Emotions and Our Planet <br> Stockholm - 14.01.2022
 
-Slides: https://hannahmetzler.eu/emomis_stockholm
+Slides: hannahmetzler.eu/emomis_stockholm
 
 
 ---

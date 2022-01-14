@@ -4,6 +4,8 @@ author: "Hannah Metzler\n\n Complexity Science Hub & Medical University of Vienn
 date: "14.01.2022 @ Intelligent Machines, Emotions and Our Planet - Stockholm \n\n Slides: www.hannahmetzler.eu/emomis_stockholm"
 output:
   xaringan::moon_reader:
+    #Use offline version of rmarks, dowload most recent: xaringan::summon_remark()
+    chakra: libs/remark-latest.min.js
     seal: false
     lib_dir: libs 
     css: [xaringan-themer.css, "libs/footer&middle.css"]
@@ -146,9 +148,9 @@ layout: true
 knitr::include_graphics("figures/countrymap.svg")
 ```
 
+* 18 countries - 6 languages
 * % tweets expressing an emotion
 * Emotion dictionaries
-* 18 countries - 6 languages
 * 8.3 billion tweets
 * 5 weeks after day with >30 cases
 ]
@@ -241,18 +243,15 @@ layout: true
 
 .left-column[
 ```{r, echo=FALSE, out.width=350, fig.align='center'}
-knitr::include_graphics("figures/communication-network.png")
+knitr::include_graphics("figures/factchecking.jpeg")
 ```
 
-<br> 
+<br> <br> 
 ```{r, echo=FALSE, out.width=350, fig.align='center'}
-knitr::include_graphics("figures/factchecking.jpeg")
+knitr::include_graphics("figures/communication-network.png")
 ```
 ]
 .right-column[.center-right[
-* People use social media for **social** reasons
-
-* Algorithms are biased toward **emotional** information <br><br>
 
 * Current solutions focus on accuracy only
 
@@ -260,6 +259,9 @@ knitr::include_graphics("figures/factchecking.jpeg")
 
 * Facts alone do not change people's minds
 <br> <br> 
+* People use social media for **social** reasons
+
+* Algorithms are biased toward **emotional** information
 
 **Solutions need to consider emotions**
 ]]
@@ -310,11 +312,11 @@ knitr::include_graphics("figures/N2.PNG")
 .pull-right[.center-right[
 **2) Controlled online experiments**
 
-* Inoculation against emotional manipulation
+* Belief in fake and real news stories
 
-* Emotional skepticism: <br> Pause when you feel emotional
+* Explaining emotional manipulation
 
-* Emotion labelling: <br> What are you feeling?
+* Emotional skepticism & labelling: <br> Pause when you feel emotional <br> What are you feeling?
 ]]
 
 

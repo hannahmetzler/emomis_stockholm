@@ -330,9 +330,10 @@ knitr::include_graphics("figures/N2.PNG")
 knitr::include_graphics("figures/network.jpg")
 ```
 ]]
-* Can the most effective individual interventions influence spreading at the macro-scale?
-
-* Can individual interventions be effective on platforms where algorithms prioritize emotional information?
+* Can individual interventions have collective effects on social media? 
+* How many and which users?
+* Effects of different content recommendation algorithms?
+* Can the best interventions be effective against emotionally biased algorithms?
 
 ---
 

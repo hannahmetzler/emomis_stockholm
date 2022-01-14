@@ -5,7 +5,7 @@ date: "14.01.2022 @ Intelligent Machines, Emotions and Our Planet - Stockholm \n
 output:
   xaringan::moon_reader:
     #Use offline version of rmarks, dowload most recent: xaringan::summon_remark()
-    chakra: libs/remark-latest.min.js
+    # chakra: libs/remark-latest.min.js
     seal: false
     lib_dir: libs 
     css: [xaringan-themer.css, "libs/footer&middle.css"]
@@ -48,32 +48,6 @@ background-size: contain
 
 Slides: hannahmetzler.eu/emomis_stockholm
 
-???
-
-<!-- layout: true -->
-<!-- <div class="my-footer"><span> -->
-<!-- <a href="https://doi.org/10.1126/science.aao2998">Lazer et al. (2018). The science of fake news. </a></span></div> -->
-<!-- # What is misinformation? -->
-<!-- ### False or misleading information -->
-
-<!-- .pull-left[ -->
-<!-- <br><br> -->
-<!-- ```{r, echo=FALSE, out.width=500, fig.align='center'} -->
-<!-- knitr::include_graphics("figures/fake-news-3801637.svg") -->
-<!-- ``` -->
-<!-- ] -->
-<!-- .pull-right[ -->
-<!-- * Independent of intent  -->
-
-<!--     * Intentional: Disinformation <br> -->
-
-<!-- * Fake News <br> -->
-
-<!-- * Biased information <br> -->
-
-<!-- * Conspiracies & myths -->
-<!-- ] -->
-
 ---
 layout: true
 <div class="my-footer"><span>
@@ -98,15 +72,37 @@ knitr::include_graphics("figures/Brennen2020_COVID_factcheck_increase.svg")
 ```{r, echo=FALSE, out.width=700, fig.align='center'}
 knitr::include_graphics("figures/Islam_et_al_2020_infodemic.svg")
 ```
-
-
 ]]
 
 
 ???
-if time: better month labels
+
 knitr::include_graphics("figures/Akbar_misinfo_india.png")
 <a href="http://joyojeet.people.si.umich.edu/an-archive-of-covid-19-related-fake-news-in-india/">Akbar et al. (2020) </a>
+
+
+<!-- --- -->
+<!-- href="https://doi.org/10.1126/science.aao2998">Lazer et al. (2018) -->
+<!-- # What is misinformation? -->
+<!-- ### False or misleading information -->
+
+<!-- .pull-left[ -->
+<!-- <br><br> -->
+<!-- ```{r, echo=FALSE, out.width=500, fig.align='center'} -->
+<!-- knitr::include_graphics("figures/fake-news-3801637.svg") -->
+<!-- ``` -->
+<!-- ] -->
+<!-- .pull-right[ -->
+<!-- * Independent of intent -->
+
+<!--     * Intentional: Disinformation <br> -->
+
+<!-- * Fake News <br> -->
+
+<!-- * Biased information <br> -->
+
+<!-- * Conspiracies & myths -->
+<!-- ] -->
 
 ---
 layout: true

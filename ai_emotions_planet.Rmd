@@ -52,8 +52,8 @@ Slides: hannahmetzler.eu/emomis_stockholm
 layout: true
 <div class="my-footer"><span>
 <a href="https://www.nature.com/articles/s41598-020-73510-5#Fig3"> Cinelli et al. (2020);</a> 
-<a href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml">Islam et al. (2020) </a> 
-<a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation">Brennen et al. (2020); </a>
+<a href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml">Islam et al.; (2020) </a> 
+<a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation">Brennen et al. (2020) </a>
 </span></div>
 
 ---
@@ -155,7 +155,7 @@ knitr::include_graphics("figures/EmotionTimelines_Italy_with_stringency.svg")
 layout: true
 <div class="my-footer"><span>
 <a href="https://doi.org/10.1177/1750698017701615"> van Prooijen & Douglas (2017); </a> 
-<a href="https://doi.org/10.1177/1948550620934692"> Imhoff & Lamberty (2020); </a> 
+<a href="https://doi.org/10.1177/1948550620934692"> Imhoff & Lamberty (2020) </a> 
 
 </span></div>
 ---
@@ -308,6 +308,11 @@ knitr::include_graphics("figures/N2.PNG")
 ]]
 
 
+---
+layout: true
+<div class="my-footer"><span>
+<a href="https://dl.acm.org/doi/10.1145/1134271.1134277"> Image from Lada & Glance (2005)</a> 
+</span></div>
 ---
 
 ## Emotional misinformation spreading

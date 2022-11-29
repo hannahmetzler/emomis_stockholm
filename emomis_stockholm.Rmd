@@ -331,6 +331,9 @@ knitr::include_graphics("figures/network.jpg")
 * Can the best interventions be effective against emotionally biased algorithms?
 
 ---
+layout: true
+
+---
 
 # Thank you!
 
@@ -357,3 +360,4 @@ knitr::include_graphics("figures/csh.png")
   * [hannahmetzler.eu](hannahmetzler.eu)
   * [@hannametzler1](https://twitter.com/hannahmetzler1)
 ]
+
